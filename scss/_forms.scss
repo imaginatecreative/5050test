@@ -42,6 +42,15 @@ form {
 legend {
   margin-bottom: -1rem;
 }
+legend{
+  h4{
+    text-transform: uppercase;
+    font-family: $font-family;
+    color: $brand-three;
+    font-size: $header-size / 1.2;
+
+  }
+}
 
 /* LABEL ======================================= */
 
@@ -55,7 +64,7 @@ legend {
 }
 
 label {
-  color: #999;
+  color: $brand-one;
   font-size: 14px;
   font-weight: normal;
   position: absolute;
@@ -72,6 +81,10 @@ label {
   top: -8px;
   font-size: 14px;
   color: $brand-one;
+}
+
+.inputMaterial.optional ~ label {
+  top: 10px;
 }
 
 /* BOTTOM BARS ================================= */
@@ -152,7 +165,7 @@ label {
     border: 1px solid #ccc !important;
   }
   @media only screen and (min-width: 750px) {
-    width: 50%;
+   /*  width: 50%; */
   }
 }
 
@@ -160,7 +173,7 @@ label {
   padding: 5px 8px;
   width: 100%;
   border: none;
-  color: #999;
+  color: $brand-one;
 
 }
 
@@ -176,5 +189,13 @@ label {
   label {
     margin-bottom: 10px;
     display: inline-block;
+  }
+}
+input[type="checkbox"]{
+  width: 20px; /*Desired width*/
+  height: 20px; /*Desired height*/
+  cursor: pointer;
+  & ~ label{
+    top: -5px!important;
   }
 }

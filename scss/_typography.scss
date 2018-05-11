@@ -19,6 +19,74 @@ $brand-five: #FFE082;
 $brand-six: #F7A700;
 $brand-seven: #F08300;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*------------------------------------*\
     # Simple Typography Settings
 \*------------------------------------*/
@@ -180,7 +248,7 @@ h4 {
   font-weight: 400;
   text-transform: uppercase;
 
-  strong {
+  a, strong, span {
     font-size: $header-size / 1.9;
     font-weight: 800;
   }

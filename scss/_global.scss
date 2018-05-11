@@ -249,3 +249,13 @@ footer {
     transform: translateX(-100%);
   }
 }
+
+/*
+* added as per Richard on freedcamp:
+* https://freedcamp.com/BD_SPort_BlG/5050_Lottery_jah/discussions/647385
+*/
+.digit { display: inline-block;  width: 32px;  font-size: inherit; text-align: center; }
+.clock-separator { display: inline-block; width: 7px; text-align: center;}
+.countdown-clock { display: inline-block;  }
+span { font-size: .83333rem;}
+.text-right {text-align: right}
