@@ -42,8 +42,9 @@ form {
 legend {
   margin-bottom: -1rem;
 }
-legend{
-  h4{
+
+legend {
+  h4 {
     text-transform: uppercase;
     font-family: $font-family;
     color: $brand-three;
@@ -82,6 +83,17 @@ label {
   font-size: 14px;
   color: $brand-one;
 }
+
+/* active state */
+//.inputMaterial[type="email"] {
+//  &:focus:invalid {
+//    & ~ label {
+//      top: -8px;
+//      font-size: 14px;
+//      color: red;
+//    }
+//  }
+//}
 
 .inputMaterial.optional ~ label {
   top: 10px;
@@ -165,7 +177,7 @@ label {
     border: 1px solid #ccc !important;
   }
   @media only screen and (min-width: 750px) {
-   /*  width: 50%; */
+    /*  width: 50%; */
   }
 }
 
@@ -191,11 +203,12 @@ label {
     display: inline-block;
   }
 }
-input[type="checkbox"]{
+
+input[type="checkbox"] {
   width: 20px; /*Desired width*/
   height: 20px; /*Desired height*/
   cursor: pointer;
-  & ~ label{
-    top: -5px!important;
+  & ~ label {
+    top: -5px !important;
   }
 }

@@ -14,7 +14,7 @@
     padding: 1rem;
 
   }
-  &.text-left {
+  & .text-left {
     text-align: left;
   }
 }
@@ -69,7 +69,7 @@
   }
   .inner_mid {
     flex: 1 1 45%;
-    background: linear-gradient(to right, rgba(27, 159, 214, 0.8) 0%, rgba(27, 159, 214, 0.8) 100%), url("../img/hero.jpg") center center / cover no-repeat;
+    background: linear-gradient(to right, rgba(27, 159, 214, 0.8) 0%, rgba(27, 159, 214, 0.8) 100%), url("../img/draw-image.jpg") center center / cover no-repeat;
     h3 {
     }
     * {
