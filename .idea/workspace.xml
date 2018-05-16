@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/visa_mc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_draw-styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_draw-styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps/step-four.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-four.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steps/step-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-two.html" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +33,8 @@
       <file leaf-file-name="step-two.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/steps/step-two.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4155">
-              <caret line="277" selection-start-line="277" selection-end-line="277" />
+            <state relative-caret-position="175">
+              <caret line="141" column="94" lean-forward="true" selection-start-line="141" selection-start-column="94" selection-end-line="141" selection-end-column="94" />
             </state>
           </provider>
         </entry>
@@ -99,20 +96,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_hero.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_hero.scss">
+      <file leaf-file-name="_draw-styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_draw-styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_draw-styles.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss/_draw-styles.scss">
+      <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="157" column="18" selection-start-line="157" selection-start-column="18" selection-end-line="157" selection-end-column="18" />
+            <state relative-caret-position="435">
+              <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -185,7 +182,6 @@
         <option value="$PROJECT_DIR$/scss/_tweaks.scss" />
         <option value="$PROJECT_DIR$/sub-pages/email.html" />
         <option value="$PROJECT_DIR$/scss/_global.scss" />
-        <option value="$PROJECT_DIR$/scss/_forms.scss" />
         <option value="$PROJECT_DIR$/scss/_typography.scss" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/scss/_side-bar.scss" />
@@ -195,9 +191,10 @@
         <option value="$PROJECT_DIR$/steps/step-four.html" />
         <option value="$PROJECT_DIR$/sub-pages/account.html" />
         <option value="$PROJECT_DIR$/steps/step-one.html" />
-        <option value="$PROJECT_DIR$/steps/step-two.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/_draw-styles.scss" />
+        <option value="$PROJECT_DIR$/steps/step-two.html" />
+        <option value="$PROJECT_DIR$/scss/_forms.scss" />
       </list>
     </option>
   </component>
@@ -404,12 +401,12 @@
       <workItem from="1525421478583" duration="5391000" />
       <workItem from="1526046610794" duration="8199000" />
       <workItem from="1526479079935" duration="1198000" />
-      <workItem from="1526481778815" duration="369000" />
+      <workItem from="1526481778815" duration="1064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106287000" />
+    <option name="totallyTimeSpent" value="106982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
@@ -421,8 +418,8 @@
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17013232" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" id="Gulp" order="2" sideWeight="0.29612756" side_tool="true" visible="true" weight="0.17305644" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70387244" visible="true" weight="0.17305644" />
+      <window_info id="Gulp" order="2" sideWeight="0.29612756" side_tool="true" visible="true" weight="0.17305644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70387244" visible="true" weight="0.17305644" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -728,13 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="176" selection-start-line="176" selection-end-line="176" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_clubs.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -787,13 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/steps/step-two.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4155">
-          <caret line="277" selection-start-line="277" selection-end-line="277" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -810,8 +793,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_draw-styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="157" column="18" selection-start-line="157" selection-start-column="18" selection-end-line="157" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/step-two.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="141" column="94" lean-forward="true" selection-start-line="141" selection-start-column="94" selection-end-line="141" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
         </state>
       </provider>
     </entry>

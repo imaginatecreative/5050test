@@ -77,12 +77,19 @@ label {
   -webkit-transition: 0.2s ease all;
 }
 
+input.inputMaterial.not-required ~ label{
+  left: 5px;
+  top: 10px;
+}
+
 /* active state */
-.inputMaterial:focus ~ label, .inputMaterial:valid ~ label {
+.inputMaterial:focus ~ label,.inputMaterial.not-required:focus ~ label,  .inputMaterial:valid ~ label {
   top: -8px;
   font-size: 14px;
   color: $brand-one;
 }
+
+
 
 /* active state */
 //.inputMaterial[type="email"] {
