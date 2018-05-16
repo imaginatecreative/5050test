@@ -47,6 +47,7 @@ footer {
     .block.copy {
       height: 5vh;
       flex-direction: column;
+      z-index: 1;
     }
   }
   .inner_wrapper.acred {
@@ -59,8 +60,17 @@ footer {
       display: inline-flex;
       justify-content: center;
       align-items: center;
-      &.visa {
+      &.payment {
         justify-content: flex-start;
+        .methods{
+          padding: 10px;
+          text-align: center;
+          img{
+            max-width: 50px;
+            width: 30%;
+            display: inline-block;
+          }
+        }
       }
       &.social {
         justify-content: flex-end;
@@ -72,7 +82,7 @@ footer {
         }
       }
     }
-    @media only screen and (min-width: 1200px) {
+    @media only screen and (min-width: 1300px) {
       position: absolute;
     }
   }
