@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps/step-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-two.html" afterDir="false" />
-    </list>
+    <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,8 +105,8 @@
       <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+            <state relative-caret-position="165">
+              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -401,12 +398,12 @@
       <workItem from="1525421478583" duration="5391000" />
       <workItem from="1526046610794" duration="8199000" />
       <workItem from="1526479079935" duration="1198000" />
-      <workItem from="1526481778815" duration="1064000" />
+      <workItem from="1526481778815" duration="1740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106982000" />
+    <option name="totallyTimeSpent" value="107658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
@@ -807,8 +804,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="85" column="29" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+        <state relative-caret-position="165">
+          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
         </state>
       </provider>
     </entry>
