@@ -1,6 +1,8 @@
 footer {
-  height: 10vh;
   position: relative;
+  @media only screen and (min-width: 750px) {
+    height: 10vh;
+  }
   .inner_wrapper.ticker {
     background-color: $white;
     width: 100vw;
@@ -39,15 +41,19 @@ footer {
       align-items: center;
     }
     nav.block {
-      height: 5vh;
-      ul{
+      @media only screen and (min-width: 750px) {
+        height: 5vh;
+      }
+      ul {
         z-index: 3;
       }
     }
     .block.copy {
-      height: 5vh;
       flex-direction: column;
       z-index: 1;
+      @media only screen and (min-width: 750px) {
+        height: 5vh;
+      }
     }
   }
   .inner_wrapper.acred {
@@ -62,10 +68,10 @@ footer {
       align-items: center;
       &.payment {
         justify-content: flex-start;
-        .methods{
+        .methods {
           padding: 10px;
           text-align: center;
-          img{
+          img {
             max-width: 50px;
             width: 30%;
             display: inline-block;
@@ -87,6 +93,7 @@ footer {
     }
   }
 }
+
 .footer-nav {
   nav.block {
     width: 100%;
