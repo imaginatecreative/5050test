@@ -19,14 +19,14 @@
     <favorites_list name="5050-lottery-newcastle" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.36445588">
+    <splitter split-orientation="horizontal" split-proportion="0.538313">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="495">
-                  <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+                <state relative-caret-position="480">
+                  <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
@@ -436,12 +436,12 @@
       <workItem from="1525421478583" duration="5391000" />
       <workItem from="1526046610794" duration="8199000" />
       <workItem from="1526479079935" duration="1198000" />
-      <workItem from="1526481778815" duration="7050000" />
+      <workItem from="1526481778815" duration="7477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112968000" />
+    <option name="totallyTimeSpent" value="113395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
@@ -842,8 +842,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+        <state relative-caret-position="480">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
