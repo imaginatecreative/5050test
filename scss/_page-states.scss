@@ -2,6 +2,10 @@
 .top_row{
   .hero{
     background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one.jpg') center center / cover no-repeat;
+    @media only screen and (max-width: 750px) {
+      background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one-mobile.jpg') center center / cover no-repeat;
+
+    }
   }
 }
 .bottom_row{
@@ -26,6 +30,10 @@
   .top_row{
     .hero{
       background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one.jpg') center center / cover no-repeat;
+      @media only screen and (max-width: 750px) {
+        background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one-mobile.jpg') center center / cover no-repeat;
+
+      }
     }
   }
   .bottom_row{}
@@ -35,6 +43,10 @@
   .top_row{
     .hero{
       background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-two.jpg') center center / cover no-repeat;
+      @media only screen and (max-width: 750px) {
+        background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-two-mobile.jpg') center center / cover no-repeat;
+
+      }
     }
   }
   .bottom_row{}
@@ -44,6 +56,10 @@
   .top_row{
     .hero{
       background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one.jpg') center center / cover no-repeat;
+      @media only screen and (max-width: 750px) {
+        background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one-mobile.jpg') center center / cover no-repeat;
+
+      }
     }
   }
   .bottom_row{}
@@ -53,7 +69,10 @@
   .top_row{
     .hero{
       background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-two.jpg') center center / cover no-repeat;
+      @media only screen and (max-width: 750px) {
+        background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-two-mobile.jpg') center center / cover no-repeat;
 
+      }
     }
   }
   .bottom_row{}
@@ -63,6 +82,10 @@
   .top_row{
     .hero{
       background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one.jpg') center center / cover no-repeat;
+      @media only screen and (max-width: 750px) {
+        background:linear-gradient(to bottom, rgba(32,124,202,0) 0%,rgba(16,62,101,0) 50%,rgba(8,30,48,0.3) 76%,rgba(0,0,0,0.5) 100%),  url('../img/hero-one-mobile.jpg') center center / cover no-repeat;
+
+      }
     }
   }
   .bottom_row{}
