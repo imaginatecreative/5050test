@@ -3,31 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon-128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon-196x196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps/step-four.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-four.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps/step-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-one.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps/step-three.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-three.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steps/step-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/steps/step-two.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub-pages/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/sub-pages/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_forms.scss" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +27,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="99">
-                  <caret line="16" column="70" lean-forward="true" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+                <state relative-caret-position="-725">
+                  <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
                 </state>
               </provider>
             </entry>
@@ -59,17 +36,17 @@
           <file leaf-file-name="step-one.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/steps/step-one.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="438">
+                <state relative-caret-position="750">
                   <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="step-two.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="step-two.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/steps/step-two.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="507">
-                  <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+                <state relative-caret-position="325">
+                  <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
                 </state>
               </provider>
             </entry>
@@ -77,7 +54,7 @@
           <file leaf-file-name="step-three.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/steps/step-three.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="596">
+                <state relative-caret-position="705">
                   <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
                   <folding>
                     <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -95,11 +72,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="account.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="account.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sub-pages/account.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="465">
-                  <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+                <state relative-caret-position="240">
+                  <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
                 </state>
               </provider>
             </entry>
@@ -108,11 +85,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_forms.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1365">
-                  <caret line="91" selection-start-line="91" selection-end-line="91" />
+                <state relative-caret-position="502">
+                  <caret line="86" selection-start-line="86" selection-end-line="90" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -144,11 +121,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_side-bar.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_side-bar.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_side-bar.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" selection-start-line="4" selection-end-line="21" selection-end-column="3" />
+                <state relative-caret-position="225">
+                  <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -256,15 +233,15 @@
         <option value="$PROJECT_DIR$/scss/_clubs.scss" />
         <option value="$PROJECT_DIR$/scss/_hero.scss" />
         <option value="$PROJECT_DIR$/scss/_draw-styles.scss" />
-        <option value="$PROJECT_DIR$/scss/_forms.scss" />
         <option value="$PROJECT_DIR$/scss/_footer.scss" />
         <option value="$PROJECT_DIR$/scss/_page-states.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/steps/step-one.html" />
-        <option value="$PROJECT_DIR$/steps/step-two.html" />
         <option value="$PROJECT_DIR$/steps/step-three.html" />
         <option value="$PROJECT_DIR$/steps/step-four.html" />
         <option value="$PROJECT_DIR$/sub-pages/account.html" />
+        <option value="$PROJECT_DIR$/scss/_forms.scss" />
+        <option value="$PROJECT_DIR$/steps/step-two.html" />
       </list>
     </option>
   </component>
@@ -298,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,16 +283,10 @@
               <item name="newcastle" type="b2602c69:ProjectViewProjectNode" />
               <item name="newcastle" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="newcastle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcastle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,12 +447,13 @@
       <workItem from="1526898478903" duration="198000" />
       <workItem from="1526984605245" duration="2549000" />
       <workItem from="1527238255601" duration="1151000" />
-      <workItem from="1527672768086" duration="369000" />
+      <workItem from="1527672768086" duration="843000" />
+      <workItem from="1528196989473" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119986000" />
+    <option name="totallyTimeSpent" value="120609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
@@ -489,11 +462,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17013232" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17013232" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2362949" />
-      <window_info id="Gulp" order="2" sideWeight="0.30321783" side_tool="true" visible="true" weight="0.12992546" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6967822" visible="true" weight="0.12992546" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2362949" />
+      <window_info active="true" id="Gulp" order="2" sideWeight="0.30410022" side_tool="true" visible="true" weight="0.12992546" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6958998" visible="true" weight="0.12992546" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -776,13 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -827,35 +793,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_side-bar.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="16" column="70" lean-forward="true" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steps/step-one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="750">
           <caret line="50" column="59" selection-start-line="50" selection-start-column="59" selection-end-line="50" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/steps/step-two.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/steps/step-three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
+        <state relative-caret-position="705">
           <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -872,8 +824,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sub-pages/account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        <state relative-caret-position="240">
+          <caret line="16" column="71" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-725">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steps/step-two.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="141" column="51" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="86" selection-start-line="86" selection-end-line="90" selection-end-column="1" />
         </state>
       </provider>
     </entry>
