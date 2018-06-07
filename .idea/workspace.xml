@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/scss/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/newcastlesocialmedia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/newcastlesocialmedia.jpg" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -293,6 +294,11 @@
             <path>
               <item name="newcastle" type="b2602c69:ProjectViewProjectNode" />
               <item name="newcastle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="newcastle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newcastle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -460,12 +466,12 @@
       <workItem from="1526984605245" duration="2549000" />
       <workItem from="1527238255601" duration="1151000" />
       <workItem from="1527672768086" duration="843000" />
-      <workItem from="1528196989473" duration="2930000" />
+      <workItem from="1528196989473" duration="3206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123390000" />
+    <option name="totallyTimeSpent" value="123666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
