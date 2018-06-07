@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -465,12 +463,12 @@
       <workItem from="1526984605245" duration="2549000" />
       <workItem from="1527238255601" duration="1151000" />
       <workItem from="1527672768086" duration="843000" />
-      <workItem from="1528196989473" duration="3549000" />
+      <workItem from="1528196989473" duration="3858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124009000" />
+    <option name="totallyTimeSpent" value="124318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
@@ -480,9 +478,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.17013232" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2362949" />
-      <window_info id="Gulp" order="2" sideWeight="0.30445546" side_tool="true" visible="true" weight="0.12992546" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69554454" visible="true" weight="0.12992546" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33931947" />
+      <window_info id="Gulp" order="2" sideWeight="0.30472103" side_tool="true" visible="true" weight="0.12992546" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69527894" visible="true" weight="0.12992546" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
