@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="894c8ce1-43ad-4d9d-9b1d-a595fbbc44f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_draw-styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_draw-styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_side-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_side-bar.scss" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,11 +111,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_draw-styles.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_draw-styles.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_draw-styles.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
+                <state relative-caret-position="2216">
+                  <caret line="180" column="23" lean-forward="true" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -129,11 +129,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_side-bar.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_side-bar.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_side-bar.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="225">
-                  <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+                  <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -236,7 +236,6 @@
         <option value="$PROJECT_DIR$/scss/_global.scss" />
         <option value="$PROJECT_DIR$/scss/_typography.scss" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
-        <option value="$PROJECT_DIR$/scss/_side-bar.scss" />
         <option value="$PROJECT_DIR$/scss/_clubs.scss" />
         <option value="$PROJECT_DIR$/scss/_hero.scss" />
         <option value="$PROJECT_DIR$/scss/_footer.scss" />
@@ -250,6 +249,7 @@
         <option value="$PROJECT_DIR$/scss/_forms.scss" />
         <option value="$PROJECT_DIR$/scss/_button.scss" />
         <option value="$PROJECT_DIR$/scss/_draw-styles.scss" />
+        <option value="$PROJECT_DIR$/scss/_side-bar.scss" />
       </list>
     </option>
   </component>
@@ -466,12 +466,12 @@
       <workItem from="1526984605245" duration="2549000" />
       <workItem from="1527238255601" duration="1151000" />
       <workItem from="1527672768086" duration="843000" />
-      <workItem from="1528196989473" duration="4607000" />
+      <workItem from="1528196989473" duration="5214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125067000" />
+    <option name="totallyTimeSpent" value="125674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3840" y="22" width="1920" height="1178" extended-state="6" />
@@ -480,11 +480,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17013232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17013232" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33931947" />
-      <window_info active="true" id="Gulp" order="2" sideWeight="0.30410022" side_tool="true" visible="true" weight="0.12992546" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6958998" visible="true" weight="0.12992546" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33931947" />
+      <window_info id="Gulp" order="2" sideWeight="0.30472103" side_tool="true" visible="true" weight="0.12992546" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69527894" visible="true" weight="0.12992546" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -847,13 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_side-bar.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/steps/step-one.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -863,8 +856,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_draw-styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
+        <state relative-caret-position="2216">
+          <caret line="180" column="23" lean-forward="true" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_side-bar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
