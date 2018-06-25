@@ -2,14 +2,12 @@
   text-align: left;
   width: 24.7%;
   min-width: 100px;
-
   display: inline-flex;
   align-items: flex-start;
   flex: 1 1 25%;
   padding: 2rem 1.5rem 1.5rem 3rem;
   *{
     color: $white;
-
   }
   h3{
     font-size: $header-size / 1.7;
@@ -18,9 +16,7 @@
       margin-top: 0;
       display: inline-block;
       position: absolute;
-
     }
-
   }
   @media only screen and (min-width: 750px) {
 
@@ -45,7 +41,7 @@
   &:nth-child(3) {
   }
   &:nth-child(4) {
-    min-width: 30%;
-    flex: 1 1 30%;
+  }
+  &:nth-child(5) {
   }
 }
